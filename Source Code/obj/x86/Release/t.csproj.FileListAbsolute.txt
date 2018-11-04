@@ -1,0 +1,7 @@
+C:\Users\Acronis\Desktop\Miner Source Code\Miner\bin\Release\t.exe
+C:\Users\Acronis\Desktop\Miner Source Code\Miner\bin\Release\t.pdb
+C:\Users\Acronis\Desktop\Miner Source Code\Miner\obj\x86\Release\t.csproj.CoreCompileInputs.cache
+C:\Users\Acronis\Desktop\Miner Source Code\Miner\obj\x86\Release\t.exe
+C:\Users\Acronis\Desktop\Miner Source Code\Miner\obj\x86\Release\t.pdb
+C:\Users\Qqode\Desktop\123123213123\Source Code\obj\x86\Release\t.exe
+C:\Users\Qqode\Desktop\123123213123\Source Code\obj\x86\Release\t.pdb

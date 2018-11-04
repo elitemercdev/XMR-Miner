@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/source.gif);
+    -moz-background-size: 90%; /* Firefox 3.6+ */
+    -webkit-background-size: 90%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 90%; /* Opera 9.6+ */
+    background-size: 90%; /* Современные браузеры */
+}
+
+h4{
+    color: green;
+}
